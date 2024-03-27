@@ -20,3 +20,6 @@ Understand and apply decision trees to solve classification problems.
 
 ### Practical Exercise 7: DBSCAN Clustering Exercise
 Implement DBSCAN clustering to identify core samples of high density and expand clusters from them.
+
+### Practical Exercise 8: OPTICS Clustering with Mall Customers Dataset
+Explore advanced clustering techniques using the OPTICS algorithm to analyze customer data from a mall, focusing on discovering meaningful customer segments.
