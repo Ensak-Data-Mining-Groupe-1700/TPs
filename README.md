@@ -23,3 +23,6 @@ Implement DBSCAN clustering to identify core samples of high density and expand 
 
 ### Practical Exercise 8: OPTICS Clustering with Mall Customers Dataset
 Explore advanced clustering techniques using the OPTICS algorithm to analyze customer data from a mall, focusing on discovering meaningful customer segments.
+
+### Practical Exercise 9: Crawling and Next Word Prediction
+Clean and preprocess comments crawled from YouTube, then develop a Python-based application to predict the next word in a search bar context using the processed comments.
