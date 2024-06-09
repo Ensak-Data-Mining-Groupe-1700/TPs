@@ -32,4 +32,6 @@ Implement a method to calculate and analyze the similarities between different d
 
 ### Practical Exercice 11: Topic modeling
 
+### Practical Exercice 12: Sentiment analysis
+
 
