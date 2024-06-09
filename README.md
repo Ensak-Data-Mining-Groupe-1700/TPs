@@ -26,5 +26,10 @@ Explore advanced clustering techniques using the OPTICS algorithm to analyze cus
 
 ### Practical Exercise 9: Crawling and Next Word Prediction
 Clean and preprocess comments crawled from YouTube, then develop a Python-based application to predict the next word in a search bar context using the processed comments.
-### Practical Exercice 10(The last one): Documents similarities
+
+### Practical Exercice 10: Documents similarities
 Implement a method to calculate and analyze the similarities between different documents. This can involve techniques such as TF-IDF, cosine similarity, or other advanced natural language processing algorithms to determine how closely related different pieces of text are to each other.
+
+### Practical Exercice 11: Topic modeling
+
+
